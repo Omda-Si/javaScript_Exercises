@@ -7,4 +7,4 @@ function greetJedi(first, last) {
 
   return"Greetings, master " + lastPart + firstPart;
 }
-greetJedi("emad ,iddig");
+console.log(greetJedi('emad' ,'siddig'));
